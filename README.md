@@ -3,7 +3,7 @@
 ## NULL & DATE Functions
 
 ### Overview
-This repository contains a collection of advanced SQL exercises focused on:
+This repository contains advanced SQL exercises focused on:
 - Handling NULL values
 - Working with DATE and TIME functions
 
