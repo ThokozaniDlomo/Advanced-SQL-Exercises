@@ -1,22 +1,18 @@
 # Advanced-SQL-Exercises
 
-# 📘 Advanced SQL Exercises
 ## NULL & DATE Functions
 
-### 📌 Overview
-This repository contains a collection of **advanced SQL exercises** focused on:
-- Handling **NULL values**
-- Working with **DATE and TIME functions**
+### Overview
+This repository contains a collection of advanced SQL exercises focused on:
+- Handling NULL values
+- Working with DATE and TIME functions
 
-These exercises are designed to build practical skills for **data analysis, reporting, and database management**.
+These exercises are designed to build practical skills for data analysis, reporting, and database management.
 
----
 
-### 📂 Project Structure
+### Topics Covered
 
-### ✅ Topics Covered
-
-#### 🔹 NULL Handling
+#### NULL Handling
 - `IS NULL` / `IS NOT NULL`
 - `COALESCE()`
 - `NULLIF()`
