@@ -18,14 +18,14 @@ These exercises are designed to build practical skills for data analysis, report
 - `NULLIF()`
 - `IFNULL()` / `NVL()`
 
-**Key Concepts:**
+Key Concepts:
 - Managing missing data  
 - Preventing calculation errors  
 - Replacing NULL values effectively  
 
 ---
 
-#### 🔹 DATE Functions
+#### DATE Functions
 - `DATEADD()`
 - `DATEDIFF()`
 - `CURRENT_DATE`, `CURRENT_TIMESTAMP`
@@ -34,42 +34,22 @@ These exercises are designed to build practical skills for data analysis, report
 - `TO_DATE()` (convert strings)
 - `DATEFROMPARTS()`
 
-**Key Concepts:**
+Key Concepts:
 - Date calculations  
 - Time differences  
 - Formatting output  
 - Extracting date components  
 
----
 
-### 🧪 Exercises Included
-The repository contains **15+ hands-on exercises**, including:
+### Exercises Included
 - Adding and subtracting dates  
 - Calculating time intervals  
 - Formatting timestamps  
 - Handling NULL values in queries  
 - Real-world SQL scenarios  
 
----
 
-### 🛠️ Requirements
-You can run these queries in:
-- SQL Server  
-- PostgreSQL  
-- Oracle  
-- MySQL *(minor syntax adjustments may be required)*  
-
----
-
-### ⚠️ Notes
-- SQL syntax may vary depending on the database system.  
-- Replace functions where necessary (e.g., `GETDATE()` vs `CURRENT_DATE`).  
-- Ensure correct date formats.  
-
----
-
-### 🎯 Learning Outcomes
-After completing these exercises, you will be able to:
+### Learning Outcomes
 - Handle NULL values confidently  
 - Perform advanced date calculations  
 - Format and manipulate timestamps  
